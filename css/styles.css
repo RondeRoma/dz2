@@ -1,0 +1,27 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.logotype {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.logo {
+  color: #2196f3;
+}
+button {
+  font-family: inherit;
+}
+.main-banner {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: rgba(47, 48, 58, 0.8);
+}
