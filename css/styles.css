@@ -10,30 +10,6 @@ body {
   color: var(--primary-text-color);
 }
 
-.list {
-  list-style: none;
-}
-
-.link {
-    text-decoration: none;
-}
-
-.logotype {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-  letter-spacing: 0.03em;
-  color: var(--accent-color);
-}
-.logo {
-  color: var(--primary-text-color);
-}
-.logo-f {
-  color: var(--white-color);
-}
-}
-
 button {
   font-family: inherit;
 }
@@ -62,6 +38,29 @@ button {
   background-color: var(--accent-color);
 }
 
+.list {
+  list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.logotype {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: var(--accent-color);
+}
+.logo {
+  color: var(--primary-text-color);
+}
+.logo-f {
+  color: var(--white-color);
+}
+}
 
 .main-banner {
   font-weight: 900;
