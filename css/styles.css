@@ -62,9 +62,6 @@ button {
   background-color: var(--accent-color);
 }
 
-.messangers:hover {
-  fill: Solid #2196f3;
-}
 
 .main-banner {
   font-weight: 900;
@@ -148,6 +145,7 @@ button {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
+  color: var(--primary-text-color);
 }
 .portf-p {
   font-size: 16px;
